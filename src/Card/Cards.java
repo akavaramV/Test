@@ -8,8 +8,9 @@ package Card;
 
 /**
  *
- * @author Expression Vaishnav is undefined on line 12, column 14 in Templates/Classes/Main.java.
- * @version
+ * @author Vaishnav 
+ * @version 0.0.1
+ * @since 1/16/2020
  */
 public class Cards {
 
