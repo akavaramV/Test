@@ -29,7 +29,6 @@ public class Cards {
                 System.out.println(special[i] + " of " + suites[j]);
         }
         
-        System.out.println("Hello World!");
     }
 
 }
